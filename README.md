@@ -28,13 +28,12 @@ O site tem no total 2 páginas, sendo elas:
 :heavy_check_mark: Manipular o DOM <br>
 :heavy_check_mark: Subir para o GitHub <br>
 :heavy_check_mark: Deploy <br>
-:x: Projeto Finalizado
 
 ## 🚀 Tecnologias ##
 
 - [HTML](https://www.w3schools.com/TAgs/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
-- [CSS](https://www.w3schools.com/js/default.asp)
+- [JS](https://www.w3schools.com/js/default.asp)
 - [Netlify](https://www.netlify.com/)
 
 ## :closed_book: Como usar? ##
