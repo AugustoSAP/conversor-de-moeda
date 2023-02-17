@@ -36,21 +36,5 @@ O site tem no total 2 páginas, sendo elas:
 - [JS](https://www.w3schools.com/js/default.asp)
 - [Netlify](https://www.netlify.com/)
 
-## :closed_book: Como usar? ##
-
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
-
-```bash
-# Clone this project
-$ git clone LINK DO SEU REPOSITÓRIO
-# Access
-$ cd NOME DA SUA PASTA
-# Install dependencies
-$ yarn or npm 
-# Run the project
-$ yarn start or npm start 
-# The server will initialize in the <http://localhost:3000>
-```
-
 
 <a href="#top">Volte para o topo</a>
