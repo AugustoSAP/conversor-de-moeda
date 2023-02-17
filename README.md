@@ -5,7 +5,7 @@
 
 > 🔎 Site mobile que converte do real para as mais diversas moedas do mundo
 
-🗔 <a href="https://challenge-convert-money.netlify.app/"> A aplicação já está no ar 🎉 </a><br>
+🗔 <a href="🎉 </a><br>
 
 ## :page_facing_up: Explicação
 
@@ -53,27 +53,5 @@ $ yarn start or npm start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/brunowzz">
-        <img width="200px" src="https://avatars.githubusercontent.com/u/94939630?s=400&u=064509a855b4f4005fa0b0c2aa2443a76952580f&v=4"/><br>
-        <sub>
-          <b>Bruno Vinícius</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📝 Licença
-
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
-
-&#xa0;
 
 <a href="#top">Volte para o topo</a>
