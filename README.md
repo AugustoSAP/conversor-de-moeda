@@ -5,7 +5,7 @@
 
 > 🔎 Site mobile que converte do real para as mais diversas moedas do mundo
 
-🗔 <a href="https://gorgeous-cactus-259fb0.netlify.app/"🎉 </a><br>
+🗔 <a href="https://gorgeous-cactus-259fb0.netlify.app/"> A aplicação já está no ar 🎉 </a><br>
 
 ## :page_facing_up: Explicação
 
